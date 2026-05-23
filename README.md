@@ -1,7 +1,8 @@
+Nathen Reed- Team Lead, Programmer
 Hunter Eck- Team Lead, Artist
-Cederick Lee- UI/UX
+Cedrick Lee- UI/UX, 
 William Meredith- Programmer (primarily)
-Nathen Reed- Programmer
+
 
 Module 2 Assignment
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -39,6 +40,25 @@ The team decided to meet weekly to discuss progress, tasks, and goals. Outside o
 Task Assignment and Reporting
 We agreed to use the GitHub repository along with commit history for tracking progress. All team members will discuss completed and unfinished work throughout the development process.
 
-Collaborators: Hunter Eck, William Meredith, Cedrick Lee, (Nathan Reed N/A)
+Collaborators: Hunter Eck, William Meredith, Cedrick Lee, Nathan Reed
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3-2 Project Log: QA and Testing Plan
+
+-Nathen Reed
+[
+Our preferred means of communication is primarily discord still, as we can update each other with more casual frequency, but we have also created a planning document to handle workload assignment and feature implementation. Quality assurance is maintained in this pre-alpha stage through communication and planning. We are planning on more extensive playtesting during the Alpha stage this coming week as we first need to complete a basic 2D Testing level.
+
+During the Play Test stage we communicate frequently and share progress, playtesting after any new features are implemented.
+Firstly, each game feature will be recorded within our attached test plan document and have a set of methods to verify upon each play test. This method allows us to record and share our play testing results at the various stages of development. To maintain pacing and organize content updates we are also using a plan in that same attached Excel document that specifies the start and completion of production, with the completion requiring a full playtest.
+The Demo phase will be scheduled for post Alpha and will be focused on finding and correcting any bugs in the project. Afterwards the focus will shift towards a discussion on design choices and gameplay mechanics. Any and all corrective actions or bugs will be documented here in the test plan just as before. 
+
+The checklist for our test plans thus far is as follows:
+Player movement, collision, attacks, UI, and respawning. level traversal, enemy movement, enemy attacks, enemy health widgets, enemy defeat, level checkpoints, Flipbook animation issues.
+The Test plan will be updated to include new tests for new features as they are implemented. As issues are encountered they will be documented along with the method used to correct any of these test fails.
+bugs are reported and documented in our test plan excel document along with how the bug was encountered. Runtime errors are recorded separately from bugs. Importantly, we will maintain records of the bug and its resolution even after it is corrected. Old bug information will be retained in the relevant section in the excel doc, if it becomes too long a new document will be created to list the past bugs for that specific area of development.
+]
+-Nathen Reed, in Collaboration with Hunter Eck, William Meredith, Cedrick Lee
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
