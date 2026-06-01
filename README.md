@@ -62,3 +62,27 @@ bugs are reported and documented in our test plan excel document along with how 
 -Nathen Reed, in Collaboration with Hunter Eck, William Meredith, Cedrick Lee
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4-2 Project Log: Team Reflection and Alpha Release
+-Nathen Reed
+[
+(What parts of the testing process did the team perceive to go well?):
+I believe documentation went well, and that we haven't encountered as many bugs that may have been expected thus far.
+
+(How were bugs identified and corrected?):
+Before pushing a branch any feature was first tested in turn by running unreal in a testing level. In some cases strings were utilized to announce to the tester that a specific piece of logic was being passed correctly or incorrectly.
+
+(In terms of the QA and testing process, what would you do differently to improve the process?):
+Thus far the biggest issue with QA has been more with minor communication setbacks. Sometimes various team members, myself included, developed a feature but postponed pushing to the repository in favor of waiting for a collection of features. This results in a bit of lag especially in areas that required features from one class to be implemented before progressing on a different class. This could be improved by breaking down completion dates of features to place greater priority on specific objectives, instead of just using Pre-Alpha, Alpha, Beta. This would also give more room for proper bug testing before that version is actually released.
+
+(What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?): 
+Of the tools we mentioned here in module 2, discord has still afforded us greater communication and allowed us to make up for our mentioned issues with pushing versions too late. Mostly by easy updates and casual discussion. We have worked well as a team thus far and our planning has been aided by git bash aside from some small problems. Not mentioned previously, we have been making use of Aseprite as a tool to create sprites for our Flipbooks.
+
+(Were there any tools or techniques that you did not find helpful in the success of your project development? Why?):
+Again, Git bash is great at times but plenty of times it has been confusing and unwieldy as myself and some other team members aren't too familiar with how it actually functions. At times it feels like it adds to that delayed input that has been bringing us problems.
+
+(How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?): 
+As I stated before the game design document has guided us towards making a 2D platformer, that has required the distribution of effort. Planning through our excel document has assisted us in deciding priorities and limiting the programming that our lead artist Hunter Eck would have to do as a 2D game requires a lot of sprite work, Unreal Engine doesn't include many sprite creation tools so the creation of sprites is a bit of a bottleneck. It has also necessitated new features to be added that I hadn't initially thought of, such as a system to collect items and ways to store that information to be pulled elsewhere. Additionally, we have had to alter our way of adding new branches somewhat.
+]
+-Nathen Reed, in Collaboration with Hunter Eck, William Meredith, Cedrick Lee
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
