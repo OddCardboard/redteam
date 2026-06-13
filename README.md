@@ -86,3 +86,28 @@ As I stated before the game design document has guided us towards making a 2D pl
 ]
 -Nathen Reed, in Collaboration with Hunter Eck, William Meredith, Cedrick Lee
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5-2 Project Log: Team Reflection and Beta Release
+-Nathen Reed
+[
+Following our planning from module 3 has gotten us to a solid point for our beta however rushed it may have been. We had established a solid outline for what we intended for our finished project using our planning document. As well we avoided overloading one team member too much with uneven workloads. However, the biggest flaw in our plan was plotting the more minute details such as time frames and due dates. Planning a set of object to all be completed by a set stage is less gradual and resulted in more features being put in later rather than earlier. On top of that my own personal planning had placed less focus on features earlier in dev, whereas our Alpha and especially Beta required progressively more effort. The step up from Alpha to Beta when compared to Pre-Alpha to Alpha has been much more more than expected which has actually resulted in our Beta being late. I'm uncertain however if I was focused too much on ensuring the Beta had a much greater quality than the Alpha. As it stands the completion after Beta will be much less packed.
+
+(What parts of the plan did the team perceive to go well in relation to the last stage evaluation?):
+Communication was rather simple and straight forward. We have begun handling git bash with greater ease. Each assigned area has been brought pretty close to completion.
+
+(What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?):
+Time management is a major issue, a large portion of blame falls on me for not realizing how intense the workload for this week would be not just for this course alone either. Furthermore, at different points in the process different team members missed important features when pushing a branch that slowed down other team members. Though I think this is partly due to rushing.
+
+(How were the previous evaluations integrated into this latest stage?):
+We followed through on what worked well, focused on our set areas and communicated issues quickly. The process for sharing updates has become much faster and our goals for full release are much clearer. Beta was very much the larges speedbump and despite being a little late the project is in a good spot and mainly requires polish.
+
+(What would you do differently to improve the collaboration or development process?):
+Largely, overhauling my planning to include general goals but also much more specific goals that set up the team members with a cleaner idea of what all has to be completed before the end of the week. As well, ensuring every team member double checks what they are pushing before they create a branch. As we got faster we also became less accurate at times which didn't hurt our progress too much but it could become a problem that snowballs over time. I gave myself a little too much to do with the level creation all being my area, so I spent more time building the tile maps for Beta than anything else on this project which made it harder for me to get better oversight on where everyone was actually at.
+
+(Were there any tools or techniques that you did not find helpful in the success of your project development? Why?): I didn't find that the Test Planner was as useful as it likely should be with a larger project, but that's likely because its easier to just handle the bugs as soon as you find them. Specifically, writing down the test steps isn't very useful for us at this moment. Though we definitely understand how useful it would be in the future if that bug was recreated, we would want to know the steps that led to it and how to check in future projects. For this project though it's main use is just recording, since we always mention bugs immediately in the discord. 
+
+(Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.):
+The completed stage for our Beta hinged on us creating at least two playable levels with all of our features except the boss enemy present on both stages. As I placed most of the level by hand it took longer than I would have expected among some other minor problems we encountered along the way. I also wanted to ensure the game was playable and not overly clunky or buggy. We were late on our Beta however, our Final release is going to be handled with much greater urgency. Fortunately, our beta brough almost the entirety of our endgames features to near completion. The first focus of this week will be upon building our third and final level that includes a small boss fight and a game completion screen. After that its mostly just Quality Assurance and polish, making smaller changes to timers, hitboxes, sprite sizes, etc... 
+]
+
+-Nathen Reed, in Collaboration with Hunter Eck, William Meredith, Cedrick Lee
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
