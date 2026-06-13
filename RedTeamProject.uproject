@@ -14,10 +14,6 @@
 		{
 			"Name": "AIAssistant",
 			"Enabled": true
-		},
-		{
-			"Name": "Fab",
-			"Enabled": false
 		}
 	]
 }
