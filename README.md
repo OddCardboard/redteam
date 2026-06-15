@@ -111,3 +111,28 @@ The completed stage for our Beta hinged on us creating at least two playable lev
 
 -Nathen Reed, in Collaboration with Hunter Eck, William Meredith, Cedrick Lee
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6-2 Project Log: Team Reflection and Beta Release
+-Nathen Reed
+[
+(As a team, you will routinely conduct reviews based on your progression towards the plans that you created. Evaluate the plan that your team created in Module Three from an artist’s standpoint.):
+From the perspective of an artist, our plan provided much less direction as to what the final design should be. We only planned on a 16x16 pixel sizing and the player character being a rabbit. Along with that the overall designation of what exact sprites were needed was not really a feature in our planning and likely should have been. In retrospect the planning we did conduct towards the design only had generalized goals for the art. Such as 'complete tileset for stages' instead of of specifying the style and type of sprites needed.
+
+After completing your plan analysis, conduct a team reflection and consider the following:
+
+(What parts of the plan did the team perceive to go well in relation to the last stage evaluation?): This stage has been relatively less intense as the workload has lessened for the entire team. Some features were improved quite a bit since our other version by small changes like adding a delay just before the knockback from the stomp attack is applied.
+
+(What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?): Personally, I had much more of an issue implementing the boss class and building it to be reactive to the player. I made use of another class I had made previously but I had different goals for this boss than the last one I had made. Meaning I had to adjust and correct issues that game from those differences. However, this stage of development has mostly been centered around polishing the game and finding bugs. Some of which have surprised us in different ways. Such as a little bug caused by me accidentally not connecting two objects in the respawn event.
+
+(How were the previous evaluations integrated into this latest stage?): Firstly, looking back on the previous stage I began work on the boss class sooner instead of too late as it was the last major feature we really had to work in. We diverted some of the effort that would have distracted me by placing our artist Hunter Eck in charge of building the last level and boss arena as much of the sprite work was completed last week. This freed me up to focus on the boss. Additionally, I tried to provide much more clear directions towards the other team members as to what we needed by the end of this stage.
+
+(What would you do differently to improve the collaboration or development process?):
+Mostly, planning and time management could have improved. Understanding what time worked best for each team member would have aided in completing sections sooner. As well, general experience with collaboration has introduced many different aspects of planning we were less aware of beforehand. Such as more concrete art direction so that the artist could focus on goals easier. More importantly, understanding the expectations of each stage better so we could have planned more accurately, some features like the boss class were meant to be implemented sooner. However, our Beta stage was already somewhat overwhelming in workload.
+
+(Were there any tools or techniques that you did not find helpful in the success of your project development? Why?): 
+As before, our excel document that kept track of features with their completion date and our test planner saw less use in our final stages. Not to say they were not useful in collaboration and early planning, only that as we progressed, they became more vague and less helpful. As well, I tried to keep things generally open so that the team members could take some creative freedoms in their assigned goals. This less centralized approach helped us by limiting excessive micromanagement but it also had the downside of limiting expectation. While each team member performed well in their areas some features had to be added in post discussion. Mostly due to less defined objectives from the team leader me. Our more relaxed communication methods helped keep issues like that simple but it had the downside that we didn't really have strict meeting schedules to keep everyone on the same page. I was primarily  stating goals to team members with less feedback from them as to what type of planning we were lacking. I likely should have taken extra care in gathering more formal plans and goals.
+
+]
+
+-Nathen Reed, in Collaboration with Hunter Eck, William Meredith, Cedrick Lee
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
